@@ -18,10 +18,10 @@ You may also see any lint errors in the console.
 
 Pour commencer à utiliser cette application
 
-food app est une application permettant de commander de la nourriture. Il a été écrit en react js en utilisant des hooks tels que : 
+food app est une application permettant de commander de la nourriture. Il a été écrit en react js en utilisant des hooks tels que :
 
-###  'useState, useEffect, useReduce, useCallback, useContext' 
+### 'useState, useEffect, useReduce, useCallback, useContext'
 
-ainsi qu'en utilisant le transfert de données via React.Provider. 
+ainsi qu'en utilisant le transfert de données via React.Provider.
 
-La plateforme Firebase(NoSql) de Google a été utilisée comme base de données
+La plateforme <a href='https://firebase.google.com/'>Firebase(NoSql)</a> de Google a été utilisée comme base de données
