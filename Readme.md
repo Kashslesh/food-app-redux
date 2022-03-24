@@ -24,6 +24,6 @@ food app est une application permettant de commander de la nourriture. Il a ét�
 
 ### 'useState, useEffect, useReduce, useCallback, useContext'
 
-ainsi qu'en utilisant le transfert de données via React.Provider.
+ainsi qu'en utilisant le transfert de données via <b>React.Provider</b>.
 
 La plateforme <a href='https://firebase.google.com/'>Firebase(NoSql)</a> de Google a été utilisée comme base de données
